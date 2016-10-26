@@ -1,0 +1,39 @@
+typography_spectrum: 0.21649917718152156
+color:
+  brandStrength: 0.009837390585240014
+  lightness: 0.1201563020534629
+  saturation: 0.48712885756027136
+  rhythmicContrast: 0.7580139155103134
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+github: true
+layout_spectrum: 0.1750193347603931
+author:
+  name: Zachary Strider McGregor-Dorsey
+  email: tarrou@alum.mit.edu
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/041c701a-2704-47a0-a783-3d241b41032e.jpg
+name: The Dorsey-Lees
+navigation:
+  - name: Official Family Blog
+    url: 'http://wadudunamaharage.blogspot.com/'
+    type: external
+  - name: About us
+    id: d680bde3-1f26-4c07-ba70-dccb84454bee
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef54383b-b88b-4adb-9f6c-bfe753056432.jpg
+title: ME and KZ
+content: []
+description: 'Becoming Human, a Dorsey-Lee Project'
+purpose:
+  - type: contact
+    url: 'mailto:tarrou@alum.mit.edu'
+    label: Contact father
+  - type: contact
+    url: 'mailto:tarrou@alum.mit.edu'
+    label: Contact mother
