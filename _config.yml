@@ -1,17 +1,17 @@
-typography_spectrum: 0.21649917718152156
+layout_spectrum: 0.541514453516978
+typography_spectrum: 0.9087233675957317
 color:
-  brandStrength: 0.009837390585240014
-  lightness: 0.1201563020534629
-  saturation: 0.48712885756027136
-  rhythmicContrast: 0.7580139155103134
+  brandStrength: 0.7274873159634927
+  lightness: 0.6722946056070748
+  saturation: 0.6417068947314994
+  rhythmicContrast: 0.42049835034544664
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
+    - '#FFFFFF'
+    - '#FF6634'
+    - '#333333'
+    - '#B3B3B3'
+    - '#5C8525'
 github: true
-layout_spectrum: 0.1750193347603931
 author:
   name: Zachary Strider McGregor-Dorsey
   email: tarrou@alum.mit.edu
@@ -27,7 +27,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef54383b-b88b-4adb-9f6c-bfe753056432.jpg
-title: ME and KZ
+title: ME and KZ and ??
 content: []
 description: 'Becoming Human, a Dorsey-Lee Project'
 purpose:
