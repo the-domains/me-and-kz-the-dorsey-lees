@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   The family grows again. Tatu (meaning  ‘three’ in swahili) is the name of our
   new cat. He’s a mutt, though don't tell him that.
-dateModified: '2017-10-21T18:40:32.401Z'
-datePublished: '2017-10-21T18:40:48.192Z'
+dateModified: '2017-10-21T18:41:59.489Z'
+datePublished: '2017-10-21T18:41:59.842Z'
 title: Family Expansion
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-21-family-expansion.md
 starred: false
 datePublishedOriginal: '2017-10-21T18:40:48.192Z'
-sourcePath: _posts/2017-10-21-family-expansion.md
 _type: Blurb
 
 ---
